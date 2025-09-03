@@ -74,8 +74,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](./LICEN
 ## 📝 How to Use
 
 ### 1. Set Grid Size
-- Enter the number of **columns** and **rows** you want.  
-- Choose the **units** (e.g., `px`, `%`, `fr`, `em`).  
+- Enter the number of **columns** and **rows** you want.    
 
 ### 2. Generate Grid
 - The grid will appear with clickable cells.  
@@ -89,7 +88,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](./LICEN
 - To undo, simply clear the grid and start over.  
 
 ### 5. Get the CSS Code
-- Once you’re happy with the layout, copy the generated **CSS Grid code**.  
+- Once you’re happy with the layout, copy the generated **CSS/Tailwind Grid code**.  
 - Paste it into your project and style your divs.  
 
 
