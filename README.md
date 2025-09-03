@@ -71,11 +71,27 @@ This project is licensed under the **MIT License** – see the [LICENSE](./LICEN
 
 ---
 
-## 🙌 Acknowledgments
+## 📝 How to Use
 
-- Inspired by modern glassmorphism and gradient UI themes  
-- Tailwind CSS community for utility-first design inspiration  
-- CSS Grid enthusiasts everywhere 💙  
+### 1. Set Grid Size
+- Enter the number of **columns** and **rows** you want.  
+- Choose the **units** (e.g., `px`, `%`, `fr`, `em`).  
+
+### 2. Generate Grid
+- The grid will appear with clickable cells.  
+
+### 3. Merging Cells
+- **Click once** on a cell to select it.  
+- **Click another cell** to merge it with the first one.  
+- The merged area will automatically adjust to span multiple rows/columns.  
+
+### 4. Unmerging / Resetting
+- To undo, simply clear the grid and start over.  
+
+### 5. Get the CSS Code
+- Once you’re happy with the layout, copy the generated **CSS Grid code**.  
+- Paste it into your project and style your divs.  
+
 
 ---
 
